@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">COMP1786Lecture2NameEntry</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="enter">Enter Your Name:</string>
+    <string name="press">Press Me</string>
+    <string name="nopress">Dont Press Me</string>
+    <string name="greeting">Bonjour</string>
+</resources>
